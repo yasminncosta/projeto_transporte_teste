@@ -1,4 +1,4 @@
-# gabryell
+# Gabryell
 
 ## Fernanda Almeida
 ## Yasmin Santos
